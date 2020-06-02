@@ -60,7 +60,7 @@ The introductory page of the workshop is broken down into the following sections
 
 ### Agenda
 
-These are the labs of this workshop, go through all of them in sequence, start with lab 1:
+These are the labs of this workshop, go through all of them in sequence, start with pre work:
 
 |   |   |
 | - | - |
@@ -71,7 +71,7 @@ These are the labs of this workshop, go through all of them in sequence, start w
 | [Exercise 4](exercise-04/README.md) | Develop reactive Endpoints |
 | [Exercise 5](exercise-05/README.md) | Invoke Endpoints reactively |
 | [Exercise 6](exercise-06/README.md) | Deploy Service to OpenShift |
-| [Exercise 7](exercise-07/README.md) | Use distributed Logging |
+| [Exercise 7 (optional)](exercise-07/README.md) | Use distributed Logging |
 
 ### Compatibility
 

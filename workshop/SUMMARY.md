@@ -21,7 +21,7 @@
 * [Exercise 4 - Develop reactive Endpoints](exercise-04/README.md) 
 * [Exercise 5 - Invoke Endpoints reactively](exercise-05/README.md)
 * [Exercise 6 - Deploy Service to OpenShift](exercise-06/README.md)
-* [Exercise 7 - Use distributed Logging](exercise-07/README.md) 
+* [Exercise 7 (optional) - Use distributed Logging](exercise-07/README.md) 
 
 ### Resources
 
