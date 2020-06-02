@@ -8,7 +8,7 @@
 
 * [Introduction](pre-work/README.md)
 * [Access the Cluster](pre-work/CLOUD_ACCOUNT.md)
-* [Access IBM Cloud Shell](pre-work/CLOUD_ACCOUNT.md)
+* [Access IBM Cloud Shell](pre-work/CLOUD_SHELL.md)
 
 ### Setup the sample application
 
@@ -26,7 +26,6 @@
 
 ### Resources
 
-* YouTube video [How to setup the reactive sample application on OpenShift](https://suedbroecker.net/2020/05/26/how-to-setup-the-reactive-cloud-native-starter-sample-application-on-openshift-in-ibm-cloud/)
 * [Blog posts related to reactive](https://github.com/IBM/cloud-native-starter/tree/master/reactive#blogs)
 * [Workshop: Reactive Messaging with Quarkus on OpenShift](https://github.com/IBM/workshop-quarkus-openshift-reactive-messaging)
 * [Cloud-Native-Starter project](https://github.com/IBM/cloud-native-starter)
