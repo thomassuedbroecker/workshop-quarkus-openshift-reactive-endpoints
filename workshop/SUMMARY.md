@@ -17,14 +17,18 @@
 * [Exercise 3 - Deploy Sample Application](exercise-03/README.md)
 * [YouTube - How to setup the sample application (optional)](https://suedbroecker.net/2020/05/26/how-to-setup-the-reactive-cloud-native-starter-sample-application-on-openshift-in-ibm-cloud/)
 
-### Build new version of the Microservice
+### Build a new version of the Microservice
 
 * [Exercise 4 - Develop reactive Endpoints](exercise-04/README.md) 
 * [Exercise 5 - Invoke Endpoints reactively](exercise-05/README.md)
 * [Exercise 6 - Deploy Service to OpenShift](exercise-06/README.md)
 * [Exercise 7 (optional) - Use distributed Logging](exercise-07/README.md) 
 
-### Resources
+### YouTube Videos related to the Exercises
+
+* [Exercise 4 - Develop reactive Endpoints (optional)](https://suedbroecker.net/2020/06/10/develop-reactive-endpoints-with-quarkus/)
+
+### Additional Resources
 
 * [Blog posts related to reactive](https://github.com/IBM/cloud-native-starter/tree/master/reactive#blogs)
 * [Workshop: Reactive Messaging with Quarkus on OpenShift](https://github.com/IBM/workshop-quarkus-openshift-reactive-messaging)
