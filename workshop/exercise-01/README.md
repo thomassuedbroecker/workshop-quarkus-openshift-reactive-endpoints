@@ -12,9 +12,16 @@ $ bash ~/cloud-native-starter/reactive/os4-scripts/deploy-example.sh
 
 The deployment takes approximately 10 minutes shows the links to the Services and Web-App.
 
-To launch the web application get the URLs from the last output.
+![](../../images/setup-example-application.png)
 
-![](../../images/verify-app5.png)
+
+To launch the web application get the URL from the last output and open the application in a browser.
+
+![](../../images/web-ap-url.png)
+
+Copy the curl command to create a new article and insert it into the current terminal session.
+
+![](../../images/create-articles-curl.png)
 
 Open the web application in a browser. Then invoke the curl post command. The web application should show the new entry.
 
