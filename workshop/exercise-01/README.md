@@ -1,6 +1,6 @@
 # Exercise 1: Setup example application
 
-In this short lab you'll deploy Kafka, PostgreSQL, and the Microservices of the reactive example via a script.
+In this short lab you'll deploy Kafka, PostgreSQL, and the Microservices of the reactive example via a script and test the example application.
 
 ### Step 1: Deploy the example application
 
@@ -10,7 +10,7 @@ Invoke the following command:
 $ bash ~/cloud-native-starter/reactive/os4-scripts/deploy-example.sh 
 ```
 
-The deployment with that script takes approximately `10 minutes` and it shows the links to the Services and Web-App at the end of the execution. 
+The deployment with this script takes approximately `10 minutes` and it shows the links to the Services and Web-App at the end of the execution. 
 
 ![](../../images/setup-example-application.gif)
 
@@ -33,19 +33,19 @@ Open the web application in a browser. Then invoke the curl post command. The we
 
 ![](../../images/verify-app6.png)
 
-### Step 5 (Optional): Verify the deployed PostgreSQL
+### Step 5 (optional): Verify the deployed PostgreSQL
 
 You can check the status via the OpenShift web console. On the 'Pods' page select the 'postgres' project.
 
 ![](../../images/postgres-verify.png)
 
-### Step 6 (Optional): Verify the deployed Kafka
+### Step 6 (optional): Verify the deployed Kafka
 
 You can check the status via the OpenShift web console. On the 'Pods' page select the 'kafka' project.
 
 ![](../../images/kafka-deployment2.png)
 
-### Step 7 (Optional): Verify the deployed Services and Web Application
+### Step 7 (optional): Verify the deployed Services and Web Application
 
 Make sure all four pods in the 'cloud-native-starter' project are running.
 
