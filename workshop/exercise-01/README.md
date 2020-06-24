@@ -27,7 +27,7 @@ Copy the curl command to create a new article and insert it into the current ter
 
 ![](../../images/create-articles-curl.png)
 
-### Step 4: Verify at the example application works
+### Step 4: Verify that example application works
 
 Open the web application in a browser. Then invoke the curl post command. The web application should show the new entry.
 
