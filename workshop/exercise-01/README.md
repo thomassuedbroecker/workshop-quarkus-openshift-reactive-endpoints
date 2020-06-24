@@ -59,6 +59,5 @@ The previous steps have create build configs, builds and image streams.
 
 ![](../../images/verify-app4.png)
 
-To launch the application get the URLs via the following command.
 
 
