@@ -31,6 +31,8 @@ Open the web application in a browser. Then invoke the curl post command. The we
 
 You can check the status via the OpenShift web console. On the 'Pods' page select the 'postgres' project.
 
+![](../../images/postgres-verify.png)
+
 ### Step X (Optional): Verify the deployed Kafka
 
 You can check the status via the OpenShift web console. On the 'Pods' page select the 'kafka' project.
