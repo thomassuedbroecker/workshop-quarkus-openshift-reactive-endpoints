@@ -1,8 +1,8 @@
-# Exercise 1: Setup example application
+# Exercise 1: Depoly example application
 
 In this short lab you'll deploy Kafka, PostgreSQL, and the Microservices of the reactive example via a script and test the example application.
 
-### Step 1: Deploy the example application
+### Step 1: Deploy the example application, by using one script
 
 Invoke the following command:
 
