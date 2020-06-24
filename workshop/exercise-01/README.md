@@ -7,7 +7,7 @@ In this short lab you'll deploy Kafka, PostgreSQL, and the Microservices of the 
 Invoke the following command:
 
 ```
-$ ~/cloud-native-starter/reactive/os4-scripts/deploy-example.sh 
+$ bash ~/cloud-native-starter/reactive/os4-scripts/deploy-example.sh 
 ```
 
 The deployment takes approximately 10 minutes shows the links to the Services and Web-App.
@@ -20,7 +20,15 @@ Open the web application in a browser. Then invoke the curl post command. The we
 
 ![](../../images/verify-app6.png)
 
+### Step X (Optional): Verify the deployed PostgreSQL
 
+You can check the status via the OpenShift web console. On the 'Pods' page select the 'postgres' project.
+
+### Step X (Optional): Verify the deployed Kafka
+
+You can check the status via the OpenShift web console. On the 'Pods' page select the 'kafka' project.
+
+![](../../images/kafka-deployment2.png)
 
 ### Step X (Optional): Verify the deploy Services and Web Application
 
