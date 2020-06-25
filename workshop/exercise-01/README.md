@@ -1,8 +1,8 @@
-# Exercise 1: Depoly example application
+# Exercise 1: Deploy the example application via script
 
 In this short lab you'll deploy Kafka, PostgreSQL, and the Microservices of the reactive example via a script and test the example application.
 
-### Step 1: Deploy the example application, by using one script
+### Step 1: Deploy the example application
 
 Invoke the following command:
 
@@ -23,11 +23,11 @@ To launch the web application get the URL from the last output and open the appl
 
 ### Step 3: Copy the curl command
 
-Copy the curl command to create a new article and insert it into the current terminal session.
+Copy the curl command to create a new article and insert it into your current terminal session.
 
 ![](../../images/create-articles-curl.png)
 
-### Step 4: Verify that example application works
+### Step 4: Test the example application
 
 Open the web application in a browser. Then invoke the curl post command. The web application should show the new entry.
 
